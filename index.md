@@ -6,14 +6,20 @@ title: Yingjie Zhang's CV
 Biostatistician, PhD.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="liv.zhangcn@gmail.com">liv.zhangcn@gmail.com</a>
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+* June 2016 ~ now, statistical consultant at OpenAnalytics
+    * Statistical analysis on high throughput sequencing data (DNA microarray, RNAseq, proteomics, Variant/genotype calling) 
+    * Power analysis (sample size calculation) 
+    * Statistical analysis for drug efficacy and toxicity study 
+    * Dose - response analysis 
+    * Development of Shiny application
+    
+* 2011 ~ 2017, PhD candidate at Ghent University
 
 ### Specialized in
 
