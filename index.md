@@ -26,9 +26,7 @@ Biostatistician, PhD.
 * Zhang, Yingjie. 2016. Statistical Models for Ordination and Biodiversity Analysis in Community Ecology. Ghent, Belgium: Ghent University. Faculty of Sciences.
         
 ### 2013 - 2014, teaching assistant    
-
-* Applied Statistics (Introductory level). My responsibility included jointly giving practical lessons, designing and evaluating exams and projects. 
-    
+* Applied Statistics (Introductory level). My responsibility included jointly giving practical lessons, designing and evaluating exams and projects.  
 * High Dimensional Data Analysis (Advanced level). My responsibility included preparing materials, giving practical lesson, designing and evaluating exams and projects.
 
 ## Skills
