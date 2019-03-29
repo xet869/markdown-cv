@@ -6,8 +6,7 @@ title: Yingjie Zhang's CV
 Biostatistician, PhD.
 
 <div id="webaddress">
-<a href="liv.zhangcn@gmail.com">Email</a>
-   |<a Temse, Belgium</a>
+<a href="liv.zhangcn@gmail.com">Email: Liv.zhangcn@gmail.com</a> 
 </div>
 
 
