@@ -6,7 +6,8 @@ title: Yingjie Zhang's CV
 Biostatistician, PhD.
 
 <div id="webaddress">
-<a href="liv.zhangcn@gmail.com">liv.zhangcn@gmail.com</a>
+<a href="liv.zhangcn@gmail.com">Email</a>
+   |<a Temse, Belgium</a>
 </div>
 
 
@@ -22,11 +23,11 @@ Biostatistician, PhD.
     
 * 2010 -2016, PhD candidate at Ghent University,  research on statistical ordination methods for analysing high throughput sequencing data.
 
-    * Zhang, Yingjie and Olivier Thas. 2012. “Constrained Ordination Analysis in the Presence of Zero Inflation.” Statistical Modelling 12 (6): 463–485.
+    * Zhang, Yingjie and Olivier Thas. 2012. Constrained Ordination Analysis in the Presence of Zero Inflation. Statistical Modelling 12 (6): 463–485.
     
     * Zhang, Yingjie and Thas, O. (2016). Constrained ordination analysis with enrichment of bell-shaped response functions. PLOS ONE, 11(4).
         
-    * Zhang, Yingjie. 2016. “Statistical Models for Ordination and Biodiversity Analysis in Community Ecology”. Ghent, Belgium: Ghent University. Faculty of Sciences.
+    * Zhang, Yingjie. 2016. Statistical Models for Ordination and Biodiversity Analysis in Community Ecology. Ghent, Belgium: Ghent University. Faculty of Sciences.
         
 * 2013 - 2014, teaching assistant    
 
