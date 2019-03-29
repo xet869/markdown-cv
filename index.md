@@ -12,86 +12,65 @@ Biostatistician, PhD.
 
 ## Experience
 
-* June 2016 ~ now, statistical consultant at OpenAnalytics
-    * Statistical analysis on high throughput sequencing data (DNA microarray, RNAseq, proteomics, Variant/genotype calling) 
-    * Power analysis (sample size calculation) 
-    * Statistical analysis for drug efficacy and toxicity study 
-    * Dose - response analysis 
+* June 2016 - now, statistical consultant at OpenAnalytics
+
+    * Statistical analysis on high throughput sequencing data (DNA microarray, RNAseq, proteomics, Microbiome, Variant/genotype calling) 
+    * Statistical support for design of clinical trials, e.g. power analysis 
+    * Statistical analysis for drug efficacy, toxicity study and PK-PD analysis
     * Development of Shiny application
+    * Bioinformatics pipelines for multi-omics data analysis
     
-* 2011 ~ 2017, PhD candidate at Ghent University
+* 2010 ~ 2016, PhD candidate at Ghent University,  research on statistical ordination methods for analysing high throughput sequencing data.
 
-### Specialized in
+        * Zhang, Yingjie and Olivier Thas. 2012. “Constrained Ordination Analysis in the Presence of Zero Inflation.” Statistical Modelling 12 (6): 463–485.
+    
+        * Zhang, Yingjie and Thas, O. (2016). Constrained ordination analysis with enrichment of bell-shaped response functions. PLOS ONE, 11(4).
+        
+        * Zhang, Yingjie. 2016. “Statistical Models for Ordination and Biodiversity Analysis in Community Ecology”. Ghent, Belgium: Ghent University. Faculty of Sciences.
+        
+* 2013 - 2014, teaching assistant    
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+    * Applied Statistics (Introductory level). My responsibility included jointly giving practical lessons, designing and evaluating exams and projects. 
+    
+    * High Dimensional Data Analysis (Advanced level). My responsibility included preparing materials, giving practical lesson, designing and evaluating exams and projects.
 
+## Skills
 
-### Research interests
+### Statistics
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+* Broad knowledge of univariate and multivariate data analysis approaches
+* In-depth understanding of parametric and semiparametric statistical inference
+* thorough knowledge on data mining techniques
+
+### Programming
+
+* Proficient:   R, Latex, markdown
+* Familiar with: Bash, SAS, Perl, SPSS
+
+### Language 
+
+* Chinese - native speaker
+* English - fluent
+* Dutch - proficient 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010 - 2016` - PhD of statistical data analysis
+__Faculty of science, Ghent university__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2008 - 2009` - Master's degree of statistical data analysis
+__Faculty of science, Ghent university__
 
 
+`2004-2008` - Bachelor's degree
+__Faculty of information and computational science, Shanghai University of electric power__
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2019 -->
 
 
