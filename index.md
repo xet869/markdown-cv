@@ -20,7 +20,7 @@ Biostatistician, PhD.
     * Development of Shiny application
     * Bioinformatics pipelines for multi-omics data analysis
     
-* 2010 ~ 2016, PhD candidate at Ghent University,  research on statistical ordination methods for analysing high throughput sequencing data.
+* 2010 -2016, PhD candidate at Ghent University,  research on statistical ordination methods for analysing high throughput sequencing data.
 
     * Zhang, Yingjie and Olivier Thas. 2012. “Constrained Ordination Analysis in the Presence of Zero Inflation.” Statistical Modelling 12 (6): 463–485.
     
@@ -63,7 +63,7 @@ __Faculty of science, Ghent university__
 __Faculty of science, Ghent university__
 
 
-`2004-2008` - Bachelor's degree
+`2004 - 2008` - Bachelor's degree
 __Faculty of information and computational science, Shanghai University of electric power__
 
 
