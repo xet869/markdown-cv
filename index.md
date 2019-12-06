@@ -10,15 +10,35 @@ Biostatistician, PhD.
 </div>
 
 
-## Experience
+## Employment
 
 ### June 2016 - now, statistical consultant at OpenAnalytics
 
-* Statistical analysis on high throughput sequencing data (DNA microarray, RNAseq, proteomics, Microbiome, Variant/genotype calling) 
-* Statistical support for design of clinical trials, e.g. power analysis 
-* Statistical analysis for drug efficacy, toxicity study and PK-PD analysis
-* Development of Shiny application
-* Bioinformatics pipelines for multi-omics data analysis
+* Statistical - early phase infectious disease drug development
+  
+    * Conduct downstream statistical analysis (e.g. dimension reduction, differential expression analysis, mix effect modelling ...) on high throughput sequencing data (DNA microarray, RNAseq, proteomics)
+    * clinical data quality inspection and control
+    * Provide statistical support for clincial trail design, e.g. power analysis 
+    * Apply statistical analysis for drug efficacy, toxicity study and dose-reponse modelling
+    * Experience in CDISC data standards (SDTM, ADAM)
+    * Contribute to scientific papers
+    * Established expertise in analysis of complex omics datasets and systems biology
+    
+  
+* Technical
+  * Develop and deploy Shiny application (docker)
+  * Develop and deploy custom application on Galaxy and DNAnexus platform
+  * Develop/streamline bioinformatics pipeline for second and third generation sequencing data with application e.g Variant/genotype calling
+  * Develop various R packages
+  * Experience with relational database, high performance Linux cluster and cloud computing 
+
+  
+  
+* non-technical
+
+  * Hold ability to organize multiple work assignments and establish priorities
+  * Maintain customer relationship 
+  * Be a team player
     
 ### 2010 -2016, PhD candidate at Ghent University,  research on statistical ordination methods for analysing high throughput sequencing data.
 * Zhang, Yingjie and Olivier Thas. 2012. Constrained Ordination Analysis in the Presence of Zero Inflation. Statistical Modelling 12 (6): 463–485.
@@ -40,7 +60,7 @@ Biostatistician, PhD.
 ### Programming
 
 * Proficient:   R, Latex, markdown
-* Familiar with: Bash, SAS, Perl, SPSS
+* Familiar with: Bash, SAS, Perl, SPSS, python and matlab.
 
 ### Language 
 
@@ -57,12 +77,14 @@ __Faculty of science, Ghent university__
 `2008 - 2009` - Master's degree of statistical data analysis
 __Faculty of science, Ghent university__
 
-
 `2004 - 2008` - Bachelor's degree
 __Faculty of information and computational science, Shanghai University of electric power__
 
 
+## Hobby
 
+* Pingpong
+* Traveling 
 
 <!-- ### Footer
 
